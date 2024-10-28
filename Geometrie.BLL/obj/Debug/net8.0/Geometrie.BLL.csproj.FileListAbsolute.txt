@@ -1,0 +1,11 @@
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\bin\Debug\net8.0\Geometrie.BLL.deps.json
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\bin\Debug\net8.0\Geometrie.BLL.dll
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\bin\Debug\net8.0\Geometrie.BLL.pdb
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\obj\Debug\net8.0\Geometrie.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\obj\Debug\net8.0\Geometrie.BLL.AssemblyInfoInputs.cache
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\obj\Debug\net8.0\Geometrie.BLL.AssemblyInfo.cs
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\obj\Debug\net8.0\Geometrie.BLL.csproj.CoreCompileInputs.cache
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\obj\Debug\net8.0\Geometrie.BLL.dll
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\obj\Debug\net8.0\refint\Geometrie.BLL.dll
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\obj\Debug\net8.0\Geometrie.BLL.pdb
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Geometrie.BLL\obj\Debug\net8.0\ref\Geometrie.BLL.dll

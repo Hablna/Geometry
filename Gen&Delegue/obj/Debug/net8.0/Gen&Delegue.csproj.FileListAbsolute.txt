@@ -1,0 +1,14 @@
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\bin\Debug\net8.0\Gen&Delegue.exe
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\bin\Debug\net8.0\Gen&Delegue.deps.json
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\bin\Debug\net8.0\Gen&Delegue.runtimeconfig.json
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\bin\Debug\net8.0\Gen&Delegue.dll
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\bin\Debug\net8.0\Gen&Delegue.pdb
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\obj\Debug\net8.0\Gen&Delegue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\obj\Debug\net8.0\Gen&Delegue.AssemblyInfoInputs.cache
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\obj\Debug\net8.0\Gen&Delegue.AssemblyInfo.cs
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\obj\Debug\net8.0\Gen&Delegue.csproj.CoreCompileInputs.cache
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\obj\Debug\net8.0\Gen&Delegue.dll
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\obj\Debug\net8.0\refint\Gen&Delegue.dll
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\obj\Debug\net8.0\Gen&Delegue.pdb
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\obj\Debug\net8.0\Gen&Delegue.genruntimeconfig.cache
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\Gen&Delegue\obj\Debug\net8.0\ref\Gen&Delegue.dll

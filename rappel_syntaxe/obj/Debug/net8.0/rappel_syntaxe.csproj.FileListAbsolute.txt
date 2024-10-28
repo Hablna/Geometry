@@ -1,0 +1,14 @@
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\bin\Debug\net8.0\rappel_syntaxe.exe
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\bin\Debug\net8.0\rappel_syntaxe.deps.json
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\bin\Debug\net8.0\rappel_syntaxe.runtimeconfig.json
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\bin\Debug\net8.0\rappel_syntaxe.dll
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\bin\Debug\net8.0\rappel_syntaxe.pdb
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\obj\Debug\net8.0\rappel_syntaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\obj\Debug\net8.0\rappel_syntaxe.AssemblyInfoInputs.cache
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\obj\Debug\net8.0\rappel_syntaxe.AssemblyInfo.cs
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\obj\Debug\net8.0\rappel_syntaxe.csproj.CoreCompileInputs.cache
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\obj\Debug\net8.0\rappel_syntaxe.dll
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\obj\Debug\net8.0\refint\rappel_syntaxe.dll
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\obj\Debug\net8.0\rappel_syntaxe.pdb
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\obj\Debug\net8.0\rappel_syntaxe.genruntimeconfig.cache
+C:\Users\habib\OneDrive\Documents\cours\C#\Geometrie\rappel_syntaxe\obj\Debug\net8.0\ref\rappel_syntaxe.dll
